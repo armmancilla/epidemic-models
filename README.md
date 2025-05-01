@@ -16,5 +16,8 @@ The program initially includes outputs for preview. As a result of running the p
   <p style='font-size:8px;'>Pandemic in Mexico (2020-2022)</p>
 </div>
 
+## Acknowledgments
+*This project was developed under the supervision and direction of Dr. Thomas Gorin.*
+
 ## License
 This project is licensed under the GNU General Public License v3.0 ([LICENSE](LICENSE))
