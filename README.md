@@ -12,7 +12,7 @@ The program initially includes outputs for preview. After the cleaning process, 
 
 ## Example Output
 <div style='align-content: center;'>
-  <img style='width: 80%; max-width: 500px' src='images/PandemicMexico.png'>
+  <img style='width: 80%; max-width: 300px' src='images/PandemicMexico.png'>
   <p style='font-size:8px;'>Pandemic in Mexico (2020-2022)</p>
 </div>
 
